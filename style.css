@@ -1,0 +1,16 @@
+body {
+  background-color: #fcbfd1;
+}
+
+.madrid {
+  position: absolute;
+}
+
+.waldo {
+  position: relative;
+  padding-top: 100px;
+}
+
+#bigpic {
+  position: absolute;
+}
